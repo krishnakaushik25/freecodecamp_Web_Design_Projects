@@ -8,7 +8,7 @@ It makes up the first part of my coding part in [freecodecamp.org](https://www.f
 
 You can see this project live at the following URL:
 
-https://krishnakaushik25.github.io/Michael_jackson-tribute/
+https://krishnakaushik25.github.io/tribute-page/
 
 Enjoy!
 
